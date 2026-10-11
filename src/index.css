@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@theme {
+  --font-Caveat: "Caveat", sans-serif;
+}
